@@ -9,8 +9,8 @@ https://www.taringamberini.com/it/diceware_it_IT/lista-di-parole-diceware-in-ita
 
 ## Verifiche firme digitali
 
-https://www.gpg4win.org/
-https://gpgtools.org/
+- https://www.gpg4win.org/
+- https://gpgtools.org/
 
 ------
 
