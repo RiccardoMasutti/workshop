@@ -1,4 +1,4 @@
-# Workshop "Bitcoin Sicurezza e Privacy" - Blockchain Month Venice, 12 novembre 2012
+# Workshop "Bitcoin Sicurezza e Privacy" - Blockchain Month Venice, 12 novembre 2019
 
 ------
 
