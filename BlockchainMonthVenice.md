@@ -22,6 +22,7 @@ https://www.taringamberini.com/it/diceware_it_IT/lista-di-parole-diceware-in-ita
 
 ### Browser
 - https://www.mozilla.org/it/firefox/new/
+- https://www.torproject.org/
 - http://bit.ly/brave-ita
 - https://www.chromium.org/
 
@@ -71,6 +72,11 @@ http://bit.ly/cryptosteelcapsule
 ### Exchange
 - http://bit.ly/bitfinex-ita
 - https://bisq.network/
+
+------
+
+## Sistema operativo
+https://tails.boum.org/
 
 ------
 
